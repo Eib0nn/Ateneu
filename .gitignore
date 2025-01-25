@@ -3,3 +3,6 @@
 *.c
 .vscode
 *.txt
+*.py
+*.o
+shellcode1
