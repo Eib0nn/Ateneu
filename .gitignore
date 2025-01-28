@@ -1,6 +1,7 @@
 *.obj
 *.exe
-*.c
+addr.c
+.c
 .vscode
 *.txt
 *.py
